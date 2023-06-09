@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .section {
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    font-family:Roboto ;
+
+  }
+  .project-1{
+    font-family: "Roboto,Serif";
+
+  }
+ .projects-heading{
+  font-family: "Roboto,Serif";
+  background-color: aqua;
+  font-weight: bold;
+  text-align: center;
+ }
+.about-me{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+p{
+  font-family: Cambria, Cochin;
+  font-size: 25px;
+}
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  a{
+    font-size: 25px;
+  }
+  .skills-ol{
+    font-family: Cambria;
+    font-size: 20px;
+  }
